@@ -14,7 +14,7 @@ The R3Sys Digital Bank web application, built with Java (Core + Advanced) and th
 
 ## Technology <a name="technology"></a>
 - **Frontend**: HTML, CSS
-- **Backend**: Java, Advanced Java, JSP, Spring
+- **Backend**: Java(Core + Advanced), JSP, Spring
 - **Database**: MySQL (XAMPP)
 - **Version Control**: Git
 
